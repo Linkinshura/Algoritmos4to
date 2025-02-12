@@ -5,8 +5,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int saludar(){
+printf("Hola");
+}
+
 int main() {
-	printf("Hola");
+	saludar();
 
 	return 0;
 }

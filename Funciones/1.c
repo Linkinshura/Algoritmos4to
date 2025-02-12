@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 int saludar(){
-printf("Hola");
+printf("Hola\n");
 }
 
 int main() {
